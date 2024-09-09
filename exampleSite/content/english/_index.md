@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "The Viceroy Decree Virtual Institute"
+  content: "The VICEROY DECREE Virtual Institute is a consortium of four universities to provide a shared curriculum across various academic domains to transform the public and private sector."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Apply Now"
     link: "https://github.com/zeon-studio/hugoplate"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Course Curricula"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Cybersecurity"
+      - "Cryptography"
+      - "Data Science"
+      - "Electro-Magnetic Spectrum"
+      - "Research"
+      - "Strategic Foreing Language"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Discover the Key Features Of The Program"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: " The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Scholarship up to $10,000."
+      - "Access to mentoring programs."
+      - "Ability to participate in DoD-related internships, co-ops, and post-graduation employment opportunities."
     button:
       enable: true
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Interested in Mentoring?"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "VICEROY DECREE Virtual Institute is seeking mentors with backgrounds in Cybersecurity, Electromagnetic Spectrum, Cryptography, and/or Data Science."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Act as a role model for the student cohort."
+      - "Participate in regular monthly gatherings to provide career guidance in DoD and DIB careers."
+      - "Participate in networking events with scholars and our industry partners and in DECREE informational sessions with high school students."
+      - "Support advertising and communicating Train the Trainer opportunities to community colleges."
+      - "Mentors will be provided with a small stipend for their participation and efforts."
     button:
       enable: false
       label: ""
