@@ -12,8 +12,8 @@ pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-pageRef = "/elements"
+name = "Curricula"
+url = "/curricula"
 weight = 3
 
 [[main]]
