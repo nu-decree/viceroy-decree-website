@@ -17,33 +17,28 @@ url = "/curricula"
 weight = 3
 
 [[main]]
+name = "Applications"
+url = "/applications"
+weight = 3
+
+[[main]]
 weight = 4
-name = "Pages"
+name = "Resources"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-pageRef = "/blog"
+parent = "Resources"
+name = "Mentors"
+url = "/mentors"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
+parent = "Resources"
+name = "Interns"
+url = "/interns"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-pageRef = "/authors"
-
-[[main]]
-parent = "Pages"
-name = "Categories"
-pageRef = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
+parent = "Resources"
+name = "Opportunities"
+url = "/opportunities"
 
 
 # footer menu
@@ -53,8 +48,8 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-pageRef = "/elements"
+name = "Curricula"
+pageRef = "/curricula"
 weight = 2
 
 [[footer]]
