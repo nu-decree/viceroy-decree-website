@@ -3,7 +3,7 @@
 banner:
   title: "The Viceroy Decree Virtual Institute"
   content: "The VICEROY DECREE Virtual Institute is a consortium of four universities to provide a shared curriculum across various academic domains to transform the public and private sector."
-  image: "/images/banner.png"
+  image: "/images/viceroy-decree-logo.png"
   button:
     enable: true
     label: "Apply Now"
