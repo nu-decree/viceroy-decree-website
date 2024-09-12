@@ -2,7 +2,7 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
+logo = "images/viceroy-logo.png"
 logo_darkmode = "images/logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
@@ -15,7 +15,7 @@ logo_text = "Hugoplate"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
-theme_switcher = true
+theme_switcher = false
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
@@ -44,7 +44,7 @@ link = "/hugoplate/files/viceroy-decree-application.pdf"
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
-enable = true
+enable = false
 primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
