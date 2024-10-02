@@ -40,6 +40,10 @@ parent = "Resources"
 name = "Opportunities"
 url = "/opportunities"
 
+[[main]]
+parent = "Resources"
+name = "Resources"
+url = "/resources"
 
 # footer menu
 [[footer]]
@@ -51,8 +55,3 @@ weight = 1
 name = "Curricula"
 pageRef = "/curricula"
 weight = 2
-
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
-weight = 3
