@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Apply Now"
-    link: "https://deveshchande.github.io/hugoplate/files/viceroy-decree-application.pdf"
+    link: "https://nu-decree.github.io/viceroy-decree-website/files/viceroy-decree-application.pdf"
 
 # Features
 features:
