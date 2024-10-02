@@ -94,7 +94,7 @@ Description: Introduces core modern data science technologies and methods that p
 
 Prerequisite(s): CS 2510 or DS 2500
 
-Syllabus can be found [here](/hugoplate/files/NUDS3000.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NUDS3000.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -120,7 +120,7 @@ Description: Provides a deep-dive into the design and implementation of enterpri
 
 Prerequisites: DS2000, DS2500
 
-Syllabus can be found [here](/hugoplate/files/NUDS3500.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NUDS3500.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -145,7 +145,7 @@ Workforce Framework for Cybersecurity (NICE Framework)
 
 Description: Provides the culmination of the learned principles and methodologies for identifying and addressing Cybersecurity issues in organizations. Students bring their individual skills and abilities to create a solution to a real-world cybersecurity problem/challenge. Students will work in small groups to identify and scope the information security problem/challenge, create a project plan to develop a solution to include the development and identification of the data necessary to properly solve the problem/challenge, develop a final report (whose intended audience are senior business executives) and participate in the MSCY Capstone Event to present the results they have obtained. Further the students will be required to manage and develop the project using some SCRUM methodology tools. In this way, sprints will be planned for each project and the team will deliver the product after each sprint iteratively and incrementally, maximizing opportunities for feedback.
 
-Syllabus can be found [here](/hugoplate/files/NUCY4930.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NUCY4930.pdf).
 
 **CHNS 1101: Elementary Chinese 1 (4 credits)**
 
@@ -155,7 +155,7 @@ Description: This course is designed for students with little or no prior knowle
 
 Prerequisites: None
 
-Syllabus can be found [here](/hugoplate/files/NUCHNS1101.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NUCHNS1101.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -176,7 +176,7 @@ Workforce Framework for Cybersecurity (NICE Framework)
 
 Description: Introduction to the foundations of computer software and digital hardware and defensive design strategies. Topics include programming, digital logic design, state machines, input validation, error handling, and bug mitigation.
 
-Syllabus can be found [here](/hugoplate/files/NAUCYB126.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NAUCYB126.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -198,7 +198,7 @@ Description: Introduction to reverse engineering techniques for the identificati
 
 Prerequisite: CS 205, CYB 136, and MAT 226 with grades of C or better in each
 
-Syllabus can be found [here](/hugoplate/files/NAUCYB310.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NAUCYB310.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -218,7 +218,7 @@ Description: A practice-oriented approach to cryptography with topics in encrypt
 
 Prerequisite: CS 205, CYB 136, MAT 226, and (STA 270 or STA 275) with grades of C or better in each letter grade only.
 
-Syllabus can be found [here](/hugoplate/files/NAUCYB402.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NAUCYB402.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -244,7 +244,7 @@ Description: This course prepares students to understand and defend against soft
 
 Prerequisite: Pre-requisites: (CS249 or CYB 404) and CS 305.
 
-Syllabus can be found [here](/hugoplate/files/NAUCYB410.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NAUCYB410.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -261,7 +261,7 @@ Description: Study of methods, techniques, and research areas in cryptography an
 
 Prerequisites: Graduate status
 
-Syllabus can be found [here](/hugoplate/files/NAUINF638.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/NAUINF638.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -303,7 +303,7 @@ Description: Maxwell’s equations in time and frequency domains, Poynting’s t
 
 Prerequisites:  PHYS 2126 and PHYS 2326
 
-Syllabus can be found [here](/hugoplate/files/UHECE3317.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/UHECE3317.pdf).
 
 **ECE 3318 - Applied Electricity and Magnetism (3 credits)**
 
@@ -321,7 +321,7 @@ Description: Basic security concepts. Cryptography basics. Computer security and
 
 Prerequisites: ECE 1331, ENGI 1100, & MATH 2415.
 
-Syllabus can be found [here](/hugoplate/files/UHECE5397.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/UHECE5397.pdf).
 
 ### University of South Carolina
 
@@ -333,7 +333,7 @@ Description: This course will introduce students to the Russian language and cul
 
 Prerequisites: None.
 
-Syllabus can be found [here](/hugoplate/files/USCRUSS121.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/USCRUSS121.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -354,7 +354,7 @@ Description: This course will continue to introduce students to the Russian lang
 
 Prerequisites: RUSS 121
 
-Syllabus can be found [here](/hugoplate/files/USCRUSS122.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/USCRUSS122.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 
@@ -373,7 +373,7 @@ Description: This online course is an introduction to technologies, terminology,
 
 Prerequisites: ITEC 233
 
-Syllabus can be found [here](/hugoplate/files/USCITEC245.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/USCITEC245.pdf).
 
 *This course are designed for scholars without a background in Computer Science. Prior to registration, inclusion of these courses in their academic plan requires approval from their academic advisor*
 
@@ -391,7 +391,7 @@ Description: This course provides an overview of information security, including
 
 Prerequisites: ITEC-445 Advanced Networking
 
-Syllabus can be found [here](/hugoplate/files/USCITEC493.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/USCITEC493.pdf).
 
 **ITEC-445 Advanced Networking**
 
@@ -399,7 +399,7 @@ Description: This course will cover network infrastructure topics (client/server
 
 Prerequisites: ITEC 245
 
-Syllabus can be found [here](/hugoplate/files/USCITEC445.pdf).
+Syllabus can be found [here](/viceroy-decree-website/files/USCITEC445.pdf).
 
 Workforce Framework for Cybersecurity (NICE Framework)
 | Knowledge ID | Work Role |
