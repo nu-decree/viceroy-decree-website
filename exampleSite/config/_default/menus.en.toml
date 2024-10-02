@@ -42,8 +42,8 @@ url = "/opportunities"
 
 [[main]]
 parent = "Resources"
-name = "Resources"
-url = "/resources"
+name = "Tools"
+url = "/tools"
 
 # footer menu
 [[footer]]
