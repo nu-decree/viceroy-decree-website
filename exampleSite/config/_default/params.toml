@@ -38,8 +38,8 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Apply Here"
-link = "/files/viceroy-decree-application.pdf"
+label = "Scholar's LMS"
+link = "https://viceroydecree.moodlecloud.com/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
