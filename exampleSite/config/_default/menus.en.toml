@@ -47,6 +47,16 @@ pageRef = "/about"
 weight = 1
 
 [[footer]]
+name = "Applications"
+url = "/applications"
+weight = 2
+
+[[footer]]
 name = "Curricula"
-pageRef = "/curricula"
+url = "/curricula"
+weight = 2
+
+[[footer]]
+name = "Scholar's LMS"
+url = "https://viceroydecree.moodlecloud.com/"
 weight = 2
