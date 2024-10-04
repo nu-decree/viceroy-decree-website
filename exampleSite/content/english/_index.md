@@ -6,7 +6,7 @@ banner:
   image: "/images/viceroy-decree-logo.png"
   button:
     enable: true
-    label: "Next Priority Application Nov. 7th -> Apply Now"
+    label: "Next Priority Application Nov. 7th \n Apply Now"
     link: "[https://viceroydecree.org/applications]"
 
 # Features
