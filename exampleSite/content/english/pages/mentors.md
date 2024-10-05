@@ -66,7 +66,7 @@ The breakdown of a mentor’s tasks is as follows:
 - Conducting and preparing for the mentor’s presentation session
 - Mentoring scholars through 3 follow-up meetings
 - Preparing a report for each student after the 3 sessions
-- Writing a general semester reflection report (You can find in this link a description of the expected reports)
+- Writing a general semester reflection report (here is an example of the contents of the [expected report](/files/expected-report.pdf))
 - Participate in the program evaluation interview/survey.
 
 ### 5. Other sources of information
