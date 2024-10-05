@@ -40,6 +40,11 @@ parent = "Resources"
 name = "Opportunities"
 url = "/opportunities"
 
+[[main]]
+parent = "Resources"
+name = "Peer Mentors"
+url = "/peer-mentors"
+
 # footer menu
 [[footer]]
 name = "About"
