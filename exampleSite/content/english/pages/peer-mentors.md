@@ -11,7 +11,7 @@ Become a VICEROY DECREE Peer-Mentor
 ### 1. Description
 Peer mentorship, where individuals with similar experiences or positions guide and support each other, offers several benefits to both mentors and mentees. Peers often understand each other’s situations, challenges, and perspectives better than someone at a different stage of life or career. This shared perspective can make advice more relevant and actionable. Graduated scholars have first-hand knowledge of the challenges, opportunities, and nuances of the DECREE program, making their advice highly valuable for newcomers. Additionally, seeing the success and growth of alumni mentors can serve as motivation for current scholars, showing them the potential outcomes of their participation in DECREE VI.
 
-————————-Donwload application here———————-
+Download the Peer-Mentor Application form [here](/files/PeerMentorForm.pdf).
 
 ### 2. Mentor’s Presentation Session
 To be conducted on October 26th.
