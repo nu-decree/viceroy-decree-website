@@ -1,5 +1,5 @@
 # D3CR33 Casual CTF Adventure !
-![](https://nu-decree.github.io/decree/images/CasualCTF.png)
+![](../../../../images/casualCTF.jpg)
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
