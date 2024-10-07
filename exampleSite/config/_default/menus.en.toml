@@ -27,6 +27,11 @@ name = "Resources"
 
 [[main]]
 parent = "Resources"
+name = "Casual CTF"
+url = "/casualCTF"
+
+[[main]]
+parent = "Resources"
 name = "Mentors"
 url = "/mentors"
 
