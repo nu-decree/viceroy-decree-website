@@ -1,5 +1,10 @@
-# D3CR33 Casual CTF Adventure !
-![](https://viceroydecree.org/images/casualCTF.jpg)
+---
+title: "D3CR33 Casual CTF Adventure !"
+meta_title: "DECREE Casual CTF"
+description: "this is meta description"
+image: "/images/casualCTF.jpg"
+draft: false
+---
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
