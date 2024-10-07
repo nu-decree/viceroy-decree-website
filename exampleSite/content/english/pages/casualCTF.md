@@ -19,8 +19,8 @@ Are you ready to embark on an exhilarating journey into the world of cybersecuri
 ## Save the Date
 The Casual CTF  will take place in WVH 366 this coming Monday Nov. 14th from 6 to 8 pm. 
 
-##
-Stay tuned for more updates and details. Don't miss out on this exciting opportunity to sharpen your cybersecurity skills while having a blast!
+## Register for the competition by November 8th
+[Register](https://forms.gle/u3tTw93PhWTNPrhE8)
 
 ## Connect with Us
 - Website: https://viceroydecree.org/casualctf/
