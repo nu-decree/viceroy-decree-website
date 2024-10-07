@@ -1,6 +1,5 @@
-# VICEROY DECREE VI and NU WiCyS Chapter presets: 
-![](https://nu-decree.github.com/decree/images/CasualCTF.png)
 # D3CR33 Casual CTF Adventure !
+![](https://nu-decree.github.io/decree/images/CasualCTF.png)
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
@@ -24,6 +23,6 @@ The Casual CTF  will take place in WVH 366 this coming Monday Nov. 14th from 6 t
 Stay tuned for more updates and details. Don't miss out on this exciting opportunity to sharpen your cybersecurity skills while having a blast!
 
 ## Connect with Us
-- Website: https://viceroydecree.org
+- Website: https://viceroydecree.org/casualctf/
 
 
