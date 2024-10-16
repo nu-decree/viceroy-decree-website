@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "https://viceroydecree.org/applications"
 
   - title: "Interested in Mentoring?"
     image: "/images/service-3.png"
