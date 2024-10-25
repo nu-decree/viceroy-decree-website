@@ -47,6 +47,11 @@ url = "/opportunities"
 
 [[main]]
 parent = "Resources"
+name = "SummerOpportunities"
+url = "/summer-opportunities"
+
+[[main]]
+parent = "Resources"
 name = "Peer Mentors"
 url = "/peer-mentors"
 
