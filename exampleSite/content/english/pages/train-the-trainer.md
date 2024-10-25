@@ -9,6 +9,7 @@ draft: false
 # Train the Trainer Initiative
 
 Application deadline is **June 17th, 2024**.
+
 If you are interested, please contact us at [viceroydecree-tdt@khoury.northeastern.edu](mailto:viceroydecree-tdt@khoury.northeastern.edu).
 
 
