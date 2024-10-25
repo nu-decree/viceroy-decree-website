@@ -8,14 +8,14 @@ draft: false
 
 ## DECREE VI Scholars Summer Program
 
-Application deadline is **May 21st, 2024**.
+Application deadline is **May 21st, 2025**.
 
 If you are interested, please contact us at [viceroydecree-admin@khoury.northeastern.edu](mailto:viceroydecree-admin@khoury.northeastern.edu).
 
 Welcome to the DECREE VI Scholars Summer Program! This program is designed to enhance your skills and knowledge in cybersecurity, offering a variety of engaging educational activities and opportunities for professional development. The activities that are part of the summer program are detailed below:
 
 {{< notice "info" >}}
-All activities need to start by June 2024 and completed Due to November 2024.
+All activities need to start by June 2025 and completed by November 2025.
 {{< /notice >}}
 
 ### Prepare for DoD-Approved Certifications
