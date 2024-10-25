@@ -8,12 +8,12 @@ draft: false
 
 # Train the Trainer Initiative
 
-Application deadline is **June 17th, 2024**.
+Application deadline is **June 17th, 2025**.
 
 If you are interested, please contact us at [viceroydecree-tdt@khoury.northeastern.edu](mailto:viceroydecree-tdt@khoury.northeastern.edu).
 
 
-### July 15th to 19th of 2024
+### July 15th to 19th of 2025
 - Tentative days:
   - On-line Presenations sessions: July 15-17 time TBD
   - On-line hands-on exercises: July 18-19 time TBD
