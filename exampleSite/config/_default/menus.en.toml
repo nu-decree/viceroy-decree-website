@@ -47,7 +47,7 @@ url = "/opportunities"
 
 [[main]]
 parent = "Resources"
-name = "SummerOpportunities"
+name = "Summer Opportunities"
 url = "/summer-opportunities"
 
 [[main]]
