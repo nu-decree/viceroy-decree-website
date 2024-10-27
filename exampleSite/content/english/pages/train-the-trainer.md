@@ -2,7 +2,7 @@
 title: "Train the Trainer"
 meta_title: "Train the Trainer"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/flag.png"
 draft: false
 ---
 
