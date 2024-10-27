@@ -22,9 +22,9 @@ Are you ready to embark on an exhilarating journey into the world of cybersecuri
 
 
 ## Save the Date
-The Casual CTF  will take place in WVH 366 this coming Monday Nov. 14th from 6 to 8 pm. 
+The Casual CTF  will take place at **WVH 366 this coming Monday Nov. 14th from 6 to 8 pm**. 
 
-## Register for the competition by November 8th
+### Register for the competition by November 8th
 [Register](https://forms.gle/u3tTw93PhWTNPrhE8)
 
 ## Connect with Us
