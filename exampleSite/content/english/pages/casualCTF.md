@@ -8,6 +8,7 @@ draft: false
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
+![](/images/CasualCTF24.png)
 
 ### What to Expect
 - **Beginner-Friendly Challenges**: Whether you're new to CTFs or a seasoned pro, our Casual CTF offers challenges suitable for all skill levels.
@@ -27,7 +28,5 @@ The Casual CTF  will take place at **WVH 366 this coming Thursday Nov. 14th from
 ### Register for the competition by November 8th
 [Register](https://forms.gle/u3tTw93PhWTNPrhE8)
 
-## Connect with Us
-![](/images/CasualCTF24.png)
 
 
