@@ -28,6 +28,6 @@ The Casual CTF  will take place at **WVH 366 this coming Thursday Nov. 14th from
 [Register](https://forms.gle/u3tTw93PhWTNPrhE8)
 
 ## Connect with Us
-- Website: https://viceroydecree.org/casualctf/
+![](images/CasualCTF24.pdf)
 
 
