@@ -6,7 +6,10 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-![](/images/viceroy-decree-logo.png)
+<p align="center">
+  <img src="/images/viceroy-decree-logo.png" alt="VICEROY DECREE LOGO" width="300">
+</p>
+#![](/images/viceroy-decree-logo.png)
 
 # VICEROY DECREE Virtual Institute Seminar
 ## MITRE Professional Panel & Mock Interviews
