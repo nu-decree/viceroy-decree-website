@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-  <img src="/images/viceroy-decree-logo.png" alt="VICEROY DECREE LOGO" width="500">
+  <img src="https://comm.mitre.org/strategiccommunications/wp-content/uploads/sites/170/2020/01/MITRE-Brand_Logo-Tagline_Vertical-1.jpg" alt="MITRE Logo" width="500">
 </p>
 
 # VICEROY DECREE Virtual Institute Seminar
