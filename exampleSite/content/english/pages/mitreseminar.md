@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-  <img src="https://comm.mitre.org/strategiccommunications/wp-content/uploads/sites/170/2020/01/MITRE-Brand_Logo-Tagline_Vertical-1.jpg" alt="MITRE Logo" width="500">
+  <img src="https://www.gsma.com/get-involved/gsma-membership/wp-content/uploads/2021/05/https___comm.mitre_.org_strategiccommunications_wp-content_uploads_sites_170_2020_01_MITRE-Brand_Logo-Tagline_Vertical-1.jpg" alt="MITRE Logo" width="500">
 </p>
 
 # VICEROY DECREE Virtual Institute Seminar
