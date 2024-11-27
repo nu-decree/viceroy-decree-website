@@ -1,3 +1,13 @@
+---
+title: "VICEROY DECREE Seminar"
+meta_title: "MITRE Professional Panel & Mock Interviews"
+description: "this is meta description"
+image: "/images/viceroy-decree-logo.png"
+draft: false
+---
+
+![](/images/viceroy-decree-logo.png)
+
 # VICEROY DECREE Virtual Institute Seminar
 ## MITRE Professional Panel & Mock Interviews
 
