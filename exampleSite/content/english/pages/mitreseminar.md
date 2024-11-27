@@ -7,7 +7,7 @@ draft: false
 ---
 
 <p align="center">
-  <img src="/images/viceroy-decree-logo.png" alt="VICEROY DECREE LOGO" width="400">
+  <img src="/images/viceroy-decree-logo.png" alt="VICEROY DECREE LOGO" width="500">
 </p>
 
 # VICEROY DECREE Virtual Institute Seminar
@@ -19,7 +19,7 @@ draft: false
 
 ---
 
-## 🔍 **What’s Happening?**
+## 🔍 **Seminar content**
 
 As part of the **VICEROY DECREE VI Seminars**, employees from the **MITRE Corporation** will share their expertise in a professional panel discussion. This is a unique opportunity to:
 - Learn about MITRE and its work in **cybersecurity**.
@@ -32,7 +32,7 @@ As part of the **VICEROY DECREE VI Seminars**, employees from the **MITRE Corpor
 
 After the panel and Q&A session, from **6:45 PM to 7:30 PM**, MITRE employees will host **mock interviews** to help you refine your skills and prepare for real-world job opportunities.
 
-➡️ **Sign up for a mock interview here**:  
+➡️ **Sign up here for attending and if you want to participate in a mock interview**:  
 [https://forms.gle/KEysS55eRLLcYZ4o8](https://forms.gle/KEysS55eRLLcYZ4o8)
 
 ---
