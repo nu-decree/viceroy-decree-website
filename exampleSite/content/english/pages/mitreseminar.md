@@ -26,6 +26,8 @@ As part of the **VICEROY DECREE VI Seminars**, employees from the **MITRE Corpor
 - Hear first-hand career advice from cybersecurity professionals.
 - Understand the hiring process directly from a hiring manager's perspective.
 
+> If you are interested in knowing more about MITRE mission, please visit their website at [https://www.mitre.org](https://www.mitre.org)
+
 ---
 
 ## 🎯 **Mock Interviews**
