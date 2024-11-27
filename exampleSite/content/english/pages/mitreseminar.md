@@ -6,12 +6,12 @@ image: "/images/avatar.png"
 draft: false
 ---
 
+# VICEROY DECREE Virtual Institute Seminar
+## MITRE Professional Panel & Mock Interviews
 <p align="center">
   <img src="https://www.gsma.com/get-involved/gsma-membership/wp-content/uploads/2021/05/https___comm.mitre_.org_strategiccommunications_wp-content_uploads_sites_170_2020_01_MITRE-Brand_Logo-Tagline_Vertical-1.jpg" alt="MITRE Logo" width="500">
 </p>
 
-# VICEROY DECREE Virtual Institute Seminar
-## MITRE Professional Panel & Mock Interviews
 
 📅 **Date**: Tuesday, January 14  
 🕕 **Time**: 6:00 PM - 7:30 PM  
