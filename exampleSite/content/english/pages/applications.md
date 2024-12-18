@@ -27,7 +27,7 @@ Scholars participating in the Virtual Institute program are eligible to receive 
 - Must fulfill specific academic requirements and course pre-requisites 
 - Must be security-clearance eligible
 
-**— The next Priority Application Deadline for Spring 2025 application is November 7th 2024 —**
+**— The next Priority Application Deadline for Fall 2025 application is February 27th 2024 —**
 The application process is described in the following flow-chart:
 
 {{< image src="images/viceroy-decree-application-process.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
