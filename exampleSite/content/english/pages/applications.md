@@ -10,17 +10,17 @@ Northeastern University is seeking applications from current undergraduate stude
 
 The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY) DoD Electromagnetic and Cyber Research and Experiential Education Virtual Institute (DECREE) is a consortium of four universities created in close collaboration with the Department of Defense (DoD) and Defense Information Base partners to address recruitment and training challenges faced in DoD-related cyber and Electromagnetic Spectrum (EMS) fields. The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations.
 
-VICEROY DECREE scholars will receive a scholarship of up to $10,000 to participate in a virtual curriculum focused on cybersecurity, electromagnetic spectrum operations, data science, cryptography, and strategic foreign languages offered by a consortium of institutions.
-
-Scholars will be eligible to take virtual, credit-bearing coursework from consortium institutions, have access to mentoring programs, as well as access to DoD-related internships, co-ops, and post-graduation employment opportunities. Scholars will be required to complete 8-10 credits within the VICEROY DECREE designated curriculum by the end of the spring 2024 semester, with at least one-third of credits taken outside their home institution.
+Scholars participating in the Virtual Institute program are eligible to receive a scholarship of up to $10,000, subject to the fulfillment of all program activities and responsibilities. The scholarship amount is contingent upon the funding provided by the Griffiss Institute and may be adjusted or discontinued if such funding is reduced or terminated.
 
 **Scholars' responsibilities:**
 - Complete VI courses
 - Meet regularly with their DECREE VI mentors (bi-weekly)
 - Participate in DECREE Seminars and Events (monthly)
 - Participate in program evaluation activities (quarterly)
+- Complete practical offensive security training (annually)
 - Participate in the annual VI engagement symposia (annually)
-- AND stay connected
+- Complete professional certifications (annually)
+
 
 **Eligibility Criteria:**
 - Must be undergraduate student enrolled full-load at Northeastern University (preferably sophomore or junior)
