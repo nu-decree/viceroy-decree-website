@@ -32,4 +32,4 @@ The application process is described in the following flow-chart:
 
 {{< image src="images/viceroy-decree-application-process.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
-Download the application form [here](/files/decreeapp2025.pdf).
+Download the application form [here](./files/decreeapp2025.pdf).
