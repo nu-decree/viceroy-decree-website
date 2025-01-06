@@ -28,9 +28,9 @@ As part of the **VICEROY DECREE VI Seminars**, employees from the **MITRE Corpor
 
 ---
 
-## 🎯 **Mock Interviews**
+## 🎯 **In person Mock Interviews**
 
-After the panel and Q&A session, from **6:45 PM to 7:30 PM**, MITRE employees will host **mock interviews** to help you refine your skills and prepare for real-world job opportunities.
+For those scholars coming in person, after the panel and Q&A session, from **6:45 PM to 7:30 PM**, MITRE employees will host **mock interviews** to help you refine your skills and prepare for real-world job opportunities. For scholars from other locations, we will schedule remote interviews  in the coming weeks.
 
 ➡️ **Sign up here for attending and if you want to participate in a mock interview**:  
 [https://forms.gle/KEysS55eRLLcYZ4o8](https://forms.gle/KEysS55eRLLcYZ4o8)
