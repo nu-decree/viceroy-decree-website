@@ -4,21 +4,26 @@ banner:
   title: "The VICEROY DECREE Virtual Institute"
   content: "The VICEROY DECREE Virtual Institute is a consortium of four universities to provide a shared curriculum across various academic domains to transform the public and private sector."
   image: "/images/viceroy-decree-logo.png"
-#  button:
-#    enable: true
-#    label: "Next Priority Application February 28th"
-#    link: "https://viceroydecree.org/applications"
-    
-  buttons:  # Change `button` to `buttons`, making it a list
-    - enable: true
-      label: "Next Priority Application February 28th"
-      link: "https://viceroydecree.org/applications"
-      
-    - enable: true
-      label: "Learn More About VICEROY DECREE"
-      link: "https://viceroydecree.org/about"
+  button:
+  enable: true
+  label: "Next Priority Application February 28th"
+  link: "https://viceroydecree.org/applications"
+  
 # Features
 features:
+
+- title: "Upcoming Information Session"
+    image: "/images/info-session.png"
+    content: "Join us for an upcoming virtual information session to learn more about the VICEROY DECREE Virtual Institute. Discover scholarship opportunities, course curricula, and how to apply."
+    bulletpoints:
+      - "📅 Date: February 14, 2025"
+      - "⏰ Time: 2:00 PM EST"
+      - "📍 Location: Online (Zoom link will be provided upon registration)"
+    button:
+      enable: true
+      label: "Register Now"
+      link: "https://viceroydecree.org/info-session"
+  
   - title: "Course Curricula"
     image: "/images/service-1.png"
     content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
