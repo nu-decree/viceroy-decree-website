@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Upcoming Information Session"
-    image: "/images/service-3.png"
+    image: "/images/service-4.png"
     content: "Join us for an upcoming virtual information session to learn more about the VICEROY DECREE Virtual Institute. Discover scholarship opportunities, course curricula, and how to apply."
     bulletpoints:
       - "📅 Date: February 14, 2025"
@@ -21,7 +21,7 @@ features:
     button:
       enable: true
       label: "Register Now"
-      link: "https://viceroydecree.org/info-session"
+      link: "https://viceroydecree.org/info-sessio](https://forms.gle/kwpgAatXgQmTetYr8"
   
   - title: "Course Curricula"
     image: "/images/service-1.png"
