@@ -8,7 +8,10 @@ banner:
     enable: true
     label: "Next Priority Application February 28th"
     link: "https://viceroydecree.org/applications"
-
+  button:
+    enable: true
+    label: "Next Priority Application February 28th"
+    link: "https://viceroydecree.org/applications"**
 # Features
 features:
   - title: "Course Curricula"
