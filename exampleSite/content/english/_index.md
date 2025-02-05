@@ -17,11 +17,11 @@ features:
     bulletpoints:
       - "📅 Date: February 14, 2025"
       - "⏰ Time: 2:00 PM EST"
-      - "📍 Location: Online (Zoom link will be provided upon registration)"
+      - "📍 Location: Online (Zoom link and agenda will be provided upon registration)"
     button:
       enable: true
-      label: "Register Now"
-      link: "https://viceroydecree.org/info-sessio](https://forms.gle/kwpgAatXgQmTetYr8"
+      label: "Register for Information Session Here"
+      link: "https://forms.gle/kwpgAatXgQmTetYr8"
   
   - title: "Course Curricula"
     image: "/images/service-1.png"
