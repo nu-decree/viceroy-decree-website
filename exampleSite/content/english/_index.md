@@ -5,9 +5,9 @@ banner:
   content: "The VICEROY DECREE Virtual Institute is a consortium of four universities to provide a shared curriculum across various academic domains to transform the public and private sector."
   image: "/images/viceroy-decree-logo.png"
   button:
-  enable: true
-  label: "Next Priority Application February 28th"
-  link: "https://viceroydecree.org/applications"
+    enable: true
+    label: "Next Priority Application February 28th"
+    link: "https://viceroydecree.org/applications"
   
 # Features
 features:
