@@ -23,7 +23,7 @@ Scholars participating in the Virtual Institute program are eligible to receive 
 
 
 **Eligibility Criteria:**
-- Must be undergraduate student enrolled full-load at Northeastern University (preferably sophomore or junior)
+- Must be undergraduate student enrolled full-load at DECREE VI partner university (preferably sophomore or junior)
 - Must fulfill specific academic requirements and course pre-requisites 
 - Must be security-clearance eligible
 
