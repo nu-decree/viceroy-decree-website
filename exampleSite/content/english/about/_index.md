@@ -6,7 +6,7 @@ image: "/images/viceroy-vertical-logo.png"
 draft: false
 ---
 
-The VICEROY DECREE Virtual Institute is a consortium of 3 universities (Northern Arizona University, University of South Carolina, and Northeastern University as the lead) to provide a shared curriculum in cybersecurity, EMS, strategic foreign languages, and data science in order to increase the pipeline of highly qualified professionals, particularly from historically underserved groups, seeking careers in the DoD and industry partners.
+The VICEROY DECREE Virtual Institute is a consortium of 3 universities (Northern Arizona University, University of South Carolina, and Northeastern University as the lead) to provide a shared curriculum in cybersecurity, EMS, strategic foreign languages, and data science in order to increase the pipeline of highly qualified professionals seeking careers in the DoD and industry partners.
 
 The DECREE Virtual Institute (Department of Defense Electromagnetic and Cyber Research and Experiential Education) is one of the 13 existing [Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY)](https://www.viceroyscholars.org/) awarded by the [Griffiss Institute](https://www.griffissinstitute.org/about-us/gi-news/news-story/griffiss-institute-selects-universities-as-viceroy-national-hubs-to-boost-stem-students-into-cyber-defense).
 
