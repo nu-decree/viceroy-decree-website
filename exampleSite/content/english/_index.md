@@ -11,17 +11,18 @@ banner:
   
 # Features
 features:
-  - title: "Upcoming Information Session"
-    image: "/images/service-4.png"
-    content: "Join us for an upcoming virtual information session to learn more about the VICEROY DECREE Virtual Institute. Discover scholarship opportunities, course curricula, and how to apply."
+  - title: "Anul VICEROY DECREE sympossium Event"
+    image: "/images/sympo.png"
+    content: "Join us for an upcoming VICEROY DECREE Virtual Institute Sympossium."
     bulletpoints:
-      - "📅 Date: February 14, 2025"
-      - "⏰ Time: 2:00 PM EST"
-      - "📍 Location: Online (Zoom link and agenda will be provided upon registration)"
+      - "📅 Date: April 24, 2025"
+      - "⏰ Time: 12:00 PM EST"
+      - "📍 Location: Northeastern University Boston Campus FR 150
+                       Online (Zoom link and agenda will be provided upon registration)"
     button:
       enable: true
-      label: "Register for Information Session Here"
-      link: "https://forms.gle/kwpgAatXgQmTetYr8"
+      label: "Register for the Event"
+      link: "https://forms.gle/hfj3NPMAu9PcGpg58"
   
   - title: "Course Curricula"
     image: "/images/service-1.png"
