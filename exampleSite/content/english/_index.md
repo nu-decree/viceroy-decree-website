@@ -18,7 +18,7 @@ features:
       - "📅 Date: April 24, 2025"
       - "⏰ Time: 12:00 PM EST"
       - "📍 Location: Northeastern University Boston Campus FR 150
-                       Online (Zoom link and agenda will be provided upon registration)"
+                       Online (Zoom link provided upon registration)"
     button:
       enable: true
       label: "Register for the Event"
