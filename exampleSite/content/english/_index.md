@@ -6,7 +6,7 @@ banner:
   image: "/images/viceroy-decree-logo.png"
   button:
     enable: true
-    label: "Next Priority Application February 28th"
+    label: "Next Priority Application September 28th"
     link: "https://viceroydecree.org/applications"
   
 # Features
@@ -19,7 +19,7 @@ features:
       - "⏰ Time: 12:00 PM EST"
       - "📍 Location: Northeastern University Boston Campus FR 150
                        Online (Zoom link provided upon registration)"
-      - " **Click to see Agenda**](/images/3rdDECREEagenda.pdf)" 
+      - " [**Click to see Agenda**](https://viceroydecree.org/files/decreeagenda2025.pdf)" 
   
     button:
       enable: true
