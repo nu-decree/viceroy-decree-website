@@ -19,7 +19,7 @@ features:
       - "⏰ Time: 12:00 PM EST"
       - "📍 Location: Northeastern University Boston Campus FR 150
                        Online (Zoom link provided upon registration)"
-      - " Agenda: [Agenda](/images/3rdDECREEagenda.pdf)" 
+      - " **Click to see Agenda**](/images/3rdDECREEagenda.pdf)" 
   
     button:
       enable: true
