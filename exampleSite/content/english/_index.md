@@ -16,7 +16,7 @@ features:
     content: "Join us for an upcoming VICEROY DECREE Virtual Institute Symposium."
     bulletpoints:
       - "📅 Date: April 24, 2025"
-      - "⏰ Time: 12:00 PM EST"
+      - "⏰ Time: 12:00 to 4:00 PM EST"
       - "📍 Location: Northeastern University Boston Campus **151 Forsyth Building** \n
                        & **Online** (*Zoom link provided upon registration*)"
       - " [**Click to see Agenda**](https://viceroydecree.org/files/decreeagenda2025.pdf)" 
