@@ -11,7 +11,7 @@ banner:
   
 # Features
 features:
-  - title: "Annual VICEROY DECREE sympossium Event"
+  - title: "Annual VICEROY DECREE symposium Event"
     image: "/images/sympo.png"
     content: "Join us for an upcoming VICEROY DECREE Virtual Institute Symposium."
     bulletpoints:
