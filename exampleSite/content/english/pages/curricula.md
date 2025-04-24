@@ -30,8 +30,8 @@ The registration deadlines are provided below.
 
 #### Registration Deadline
 
-- Summer 2024 –> May 1st
-- Fall 2024 –> July 1st
+- Summer 2025 –> May 1st
+- Fall 2025 –> July 1st
 
 {{< /tab >}}
 
@@ -39,7 +39,7 @@ The registration deadlines are provided below.
 
 #### Registration Deadline
 
-- Fall 2024 –> September 5th
+- Fall 2025 –> September 5th
 
 {{< /tab >}}
 
@@ -47,7 +47,7 @@ The registration deadlines are provided below.
 
 #### Registration Deadline
 
-- Fall 2024 –> September 4th
+- Fall 2025 –> July 14th
 
 {{< /tab >}}
 {{< /tabs >}}
