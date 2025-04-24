@@ -39,7 +39,8 @@ The registration deadlines are provided below.
 
 #### Registration Deadline
 
-- Fall 2025 –> September 5th
+- Summer 2025 –> May 13th
+- Fall 2025 –> September 3rd
 
 {{< /tab >}}
 
