@@ -38,12 +38,10 @@ If you are joining any of these summer oportunities, you are required to submit 
 
 If you are interested, please contact us at [viceroydecree-admin@khoury.northeastern.edu](mailto:viceroydecree-admin@khoury.northeastern.edu), and provide:    
 
-**Summer Certification / PentesterLab Plan**
-```
-1. **Goal & Deadline**  
-   Provide the specific certification exam or PentesterLab track you will complete and state your target completion date.
-2. **Weekly Schedule**  
-   Outline the number of study hours you will commit each week and list the topics, labs, or modules you will cover.
-3. **Milestones & Evidence (LinkedIn Updates)**  
-   Identify at least three checkpoints, describe the evidence you will submit for each, and commit to posting a brief progress update with supporting proof in the program’s [LinkedIn group](https://www.linkedin.com/groups/14431610)
-```
+>> **Summer Certification / PentesterLab Plan**
+>> 1. **Goal & Deadline**  
+>>   Provide the specific certification exam or PentesterLab track you will complete and state your target completion date.
+>> 2. **Weekly Schedule**  
+>>   Outline the number of study hours you will commit each week and list the topics, labs, or modules you will cover.
+>> 3. **Milestones & Evidence (LinkedIn Updates)**  
+>>   Identify at least three checkpoints, describe the evidence you will submit for each, and commit to posting a brief progress update with supporting proof in the program’s [LinkedIn group](https://www.linkedin.com/groups/14431610)
