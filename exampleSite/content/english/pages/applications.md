@@ -27,6 +27,6 @@ VICEROY Scholars with Honors are students who meet all the VICEROY Scholars crit
 Students who meet all VICEROY Scholars requirements will receive a completion stipend and a letter of commendation from the VICEROY National Director, while Scholars with Honors will receive additional recognition for their exceptional contributions and commitment to the program. The scholarship funding is contingent upon the support provided by the Griffiss Institute and may be adjusted or discontinued if such funding is reduced or terminated.
 
 
-**— The next Priority Application Deadline for Spring 2026 application is september 28th 2026 —**
+**— The next Priority Application Deadline for Spring 2026 application is september 28th 2025 —**
 
 **Application Form** [here](https://app.smartsheet.com/b/form/71b96b31ec674310a3e304a9340e7bfa).
