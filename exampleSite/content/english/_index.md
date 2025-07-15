@@ -11,21 +11,6 @@ banner:
   
 # Features
 features:
-  - title: "Annual VICEROY DECREE symposium Event"
-    image: "/images/sympo.png"
-    content: "Join us for an upcoming VICEROY DECREE Virtual Institute Symposium."
-    bulletpoints:
-      - "📅 Date: April 24, 2025"
-      - "⏰ Time: 12:00 to 4:00 PM EST"
-      - "📍 Location: Northeastern University Boston Campus **151 Forsyth Building** \n
-                       & **Online** (*Zoom link provided upon registration*)"
-      - " [**Click to see Agenda**](https://viceroydecree.org/files/decreeagenda2025.pdf)" 
-  
-    button:
-      enable: true
-      label: "Register for the Event"
-      link: "https://forms.gle/hfj3NPMAu9PcGpg58"
-  
   - title: "Course Curricula"
     image: "/images/service-1.png"
     content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
