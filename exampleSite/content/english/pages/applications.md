@@ -6,30 +6,23 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Northeastern University is seeking applications from current undergraduate students to join our inaugural cohort of VICEROY DECREE scholars.
+The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY) DoD Electromagnetic and Cyber Research and Experiential Education Virtual Institute (DECREE) is a consortium of three universities created in close collaboration with the Department of Defense (DoD) and Defense Information Base partners to address recruitment and training challenges faced in DoD-related cyber and Electromagnetic Spectrum (EMS) fields. The goal of the program is to grow the availability of well-qualified and trained students with knowledge, skills, and abilities required to lead DoD-related cyber and EMS operations. 
 
-The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY) DoD Electromagnetic and Cyber Research and Experiential Education Virtual Institute (DECREE) is a consortium of four universities created in close collaboration with the Department of Defense (DoD) and Defense Information Base partners to address recruitment and training challenges faced in DoD-related cyber and Electromagnetic Spectrum (EMS) fields. The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations.
+Scholars participating in the Virtual Institute program can obtain two VICEROY Scholars Designations: VICEROY Scholars or VICEROY Scholars with Honors, based on their completion of program requirements. To be recognized as a VICEROY Scholar, students must meet the following requirements:
+    1.	Maintain eligibility for Security Clearance
+    2.	Complete an Academic Program Aligned with OPM Standards
+    3.	Maintain a minimum GPA of 3.0 to be eligible for the program.
+    4.	Engage in a Cyber-Spectrum Co-Curricular Club
+    5.	Participate in Cyber Competitions 
+    6.	Complete an Applied Learning Experience (Security+, Pentest +, …)
+VICEROY Scholars with Honors are students who meet all the VICEROY Scholars criteria and the following additional requirements:
+    7.	Participate in Mentorship and/or Engagement
+    8.	Complete of a DoD-Related Internship 
+    9.	Participate in the Annual VICEROY Symposium
+    
+Students who meet all VICEROY Scholars requirements will receive a completion stipend and a letter of commendation from the VICEROY National Director, while Scholars with Honors will receive additional recognition for their exceptional contributions and commitment to the program. The scholarship funding is contingent upon the support provided by the Griffiss Institute and may be adjusted or discontinued if such funding is reduced or terminated.
 
-Scholars participating in the Virtual Institute program are eligible to receive a scholarship of up to $10,000, subject to the fulfillment of all program activities and responsibilities. The scholarship amount is contingent upon the funding provided by the Griffiss Institute and may be adjusted or discontinued if such funding is reduced or terminated.
 
-**Scholars' responsibilities:**
-- Complete VI courses
-- Meet regularly with their DECREE VI mentors (bi-weekly)
-- Participate in DECREE Seminars and Events (monthly)
-- Participate in program evaluation activities (quarterly)
-- Complete practical offensive security training (annually)
-- Participate in the annual VI engagement symposia (annually)
-- Complete professional certifications (annually)
-
-
-**Eligibility Criteria:**
-- Must be undergraduate student enrolled full-load at DECREE VI partner university (preferably sophomore or junior)
-- Must fulfill specific academic requirements and course pre-requisites 
-- Must be security-clearance eligible
-
-**— The next Priority Application Deadline for Fall 2025 application is February 28th 2025 —**
-The application process is described in the following flow-chart:
-
-{{< image src="images/viceroy-decree-application-process.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+**— The next Priority Application Deadline for Spring 2026 application is september 28th 2026 —**
 
 **Application Form** [here](https://app.smartsheet.com/b/form/71b96b31ec674310a3e304a9340e7bfa).
