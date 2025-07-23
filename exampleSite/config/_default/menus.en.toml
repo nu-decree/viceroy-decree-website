@@ -57,8 +57,8 @@ url = "/peer-mentors"
 
 [[main]]
 parent = "Resources"
-name = "Train the Trainer"
-url = "/train-the-trainer"
+name = "NCL Captains"
+url = "/NCLcaptains"
 
 # footer menu
 [[footer]]
