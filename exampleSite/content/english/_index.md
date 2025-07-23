@@ -18,7 +18,7 @@ features:
     button:
       enable: true
       label: "View Details"
-      link: "/nclcaptains"
+      link: "/NCLcaptains"
  
   - title: "Course Curricula"
     image: "/images/service-1.png"
