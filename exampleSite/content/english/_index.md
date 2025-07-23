@@ -8,7 +8,18 @@ banner:
     enable: true
     label: "Next Priority Application September 28th"
     link: "https://viceroydecree.org/applications"
-  
+
+# Opportunities
+opportunities:
+  - title: "Fall 2025 NCL Team Captain Recruitment"
+    image: "/images/ncl-logo.png"
+    content: "We’re recruiting student leaders to captain DECREE teams in the Fall 2025 National Cyber League. Gain cybersecurity leadership experience and free access to platforms like Hack The Box or TryHackMe!"
+    date: "Apply by August 16, 2025"
+    button:
+      enable: true
+      label: "View Details"
+      link: "/NCLcaptains"
+ 
 # Features
 features:
   - title: "Course Curricula"
