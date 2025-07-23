@@ -9,8 +9,8 @@ banner:
     label: "Next Priority Application September 28th"
     link: "https://viceroydecree.org/applications"
 
-# Opportunities
-opportunities:
+# Features
+features:
   - title: "Fall 2025 NCL Team Captain Recruitment"
     image: "/images/ncl-logo.png"
     content: "We’re recruiting student leaders to captain DECREE teams in the Fall 2025 National Cyber League. Gain cybersecurity leadership experience and free access to platforms like Hack The Box or TryHackMe!"
@@ -20,8 +20,6 @@ opportunities:
       label: "View Details"
       link: "/NCLcaptains"
  
-# Features
-features:
   - title: "Course Curricula"
     image: "/images/service-1.png"
     content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
@@ -41,7 +39,6 @@ features:
     image: "/images/service-2.png"
     content: " The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations. Some of the key features are:"
     bulletpoints:
-      - "Scholarship up to $10,000."
       - "Access to mentoring programs."
       - "Ability to participate in DoD-related internships, co-ops, and post-graduation employment opportunities."
     button:
