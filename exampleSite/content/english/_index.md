@@ -11,7 +11,7 @@ banner:
 
 # Features
 features:
-  - title: "Fall 2025 NCL Team Captain Recruitment"
+  - title: "VICEROY DECREE Fall 2025 NCL Team Captain Recruitment"
     image: "/images/ncl-logo.png"
     content: "We’re recruiting student leaders to captain DECREE teams in the Fall 2025 National Cyber League. Gain cybersecurity leadership experience and free access to platforms like Hack The Box or TryHackMe!"
     date: "Apply by August 16, 2025"
