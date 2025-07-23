@@ -11,7 +11,7 @@ draft: false
 We’re recruiting a small number of **Team Captains** to represent the [DECREE VI Scholars Program](https://viceroydecree.org) in the **Fall 2025 National Cyber League (NCL)** — one of the most respected collegiate cybersecurity competitions in the U.S.
 
 {{< notice "info" >}}
-Apply by **September 6, 2025**. Captains must be available for both official NCL weekends: **Oct 24–26** and **Nov 7–9**.
+Apply by **August 16, 2025**. Captains must be available for both official NCL weekends: **Oct 24–26** and **Nov 7–9**.
 {{< /notice >}}
 
 If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), [PentesterLab](https://pentesterlab.com/), or participated in a previous NCL season — or even if you’re just motivated to lead and improve your hands-on skills — **we encourage you to apply**.
