@@ -1,5 +1,5 @@
 ---
-title: "VICEROY DECREE Fall 2025 NCL Team Captain Recruitment"
+title: "VICEROY DECREE \nFall 2025 NCL Team Captain Recruitment"
 meta_title: "Become a DECREE Team Captain for Fall 2025 NCL"
 description: "Lead a student team in the Fall 2025 National Cyber League and gain real-world cybersecurity leadership experience."
 image: "/images/avatar.png"
