@@ -13,8 +13,6 @@ Welcome to the DECREE VI Scholars Summer Program! This program is designed to en
 All activities need to start by June 2025 and completed by September 2025.
 {{< /notice >}}
 
-Application deadline is **May 26th, 2025**.
-
 
 ### Prepare for DoD-Approved Certifications
 Enhance your credentials by preparing and taking a Department of Defense-approved cybersecurity certification exams:
@@ -24,8 +22,7 @@ Enhance your credentials by preparing and taking a Department of Defense-approve
 #### Please follow the following process to obtain your Comptia exam voucher
   
   **1. Complete the pre-exam survey**
-  > **Timing: 8–10 days before your CompTIA certification examination date** 
-  
+  - **Timing: 8–10 days before your CompTIA certification examination date** 
   - Complete the [Google Form](https://forms.gle/NXtJGHdNcNUPdofGA):
       - Submitting the survey unlocks the voucher request. If form is correct, you will receive your voucher code by e-mail 2–4 days after submission.
       - If you do not complete the survey in time, you will not receive the voucher
