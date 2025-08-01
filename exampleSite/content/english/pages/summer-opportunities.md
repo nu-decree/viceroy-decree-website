@@ -29,10 +29,10 @@ Enhance your credentials by preparing and taking a Department of Defense-approve
   
   **2. Schedule the exam & upload proof**
   - Schedule your certification exam by starting at [CompTIA Sign-In page](https://help.comptia.org/hc/en-us). Detailed step-by-step instructions can be found in the [Scheduling Your CompTIA Exam Help](https://help.comptia.org/hc/en-us/articles/14001749726996-How-Do-I-Schedule-My-Exam) article.
-  - After booking, take a screenshot of the confirmation page (showing date, time, and exam name) and upload it **via the “Edit your response” link** included in the email you receive after completing  the survey in Step 1.
+  - After booking, take a screenshot of the confirmation page (showing date, time, and exam name) and upload it **via the “Edit response” link** included in the email you receive after completing  the survey in Step 1.
   
   **3. Report your results**
-  - Within 48 hours of finishing the exam, upload your PDF score report (or a clear image of the printout) **via the “Edit your response” link** in the email you received after completing the survey in Steps  1  and 2.
+  - Within 48 hours of finishing the exam, upload your PDF score report (or a clear image of the printout) **via the “Edit response” link** in the email you received after completing the survey in Steps  1  and 2.
 
 ---
 
