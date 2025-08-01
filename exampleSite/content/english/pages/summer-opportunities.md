@@ -26,7 +26,7 @@ Enhance your credentials by preparing and taking a Department of Defense-approve
   **1. Complete the pre-exam survey**
   > **Timing: 8–10 days before your CompTIA certification examination date** 
   
-  - Complete the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScBhNBBC1ut0WTdXjiO8ghrmTql98NVfbrOoOOosyPeP4ykzw/viewform?usp=header):
+  - Complete the [Google Form](https://forms.gle/NXtJGHdNcNUPdofGA):
       - Submitting the survey unlocks the voucher request. If form is correct, you will receive your voucher code by e-mail 2–4 days after submission.
       - If you do not complete the survey in time, you will not receive the voucher
   
