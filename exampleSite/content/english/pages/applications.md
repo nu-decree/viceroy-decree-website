@@ -11,7 +11,7 @@ The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Emplo
 Scholars participating in the Virtual Institute program can obtain two VICEROY Scholars Designations: VICEROY Scholars or VICEROY Scholars with Honors, based on their completion of program requirements. To be recognized as a VICEROY Scholar, students must meet the following requirements:   
 1.	Maintain eligibility for Security Clearance   
 2.	Complete an Academic Program Aligned with OPM Standards
-3.	Maintain a minimum GPA of 3.0 to be eligible for the program    
+3.	Maintain a minimum GPA of 3.2 to be eligible for the program    
 4.	Engage in a Cyber-Spectrum Co-Curricular Club   
 5.	Participate in Cyber Competitions    
 6.	Complete an Applied Learning Experience (Security+, Pentest +, …)   
