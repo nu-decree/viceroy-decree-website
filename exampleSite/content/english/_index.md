@@ -3,7 +3,7 @@
 banner:
   title: "The VICEROY DECREE Virtual Institute"
   content: "The VICEROY DECREE Virtual Institute is a consortium of three universities to provide a shared curriculum across various academic domains to transform the public and private sector."
-  image: "/images/newdecreeeneu.png"
+  image: "/images/newdecreeeneusm.png"
   button:
     enable: true
     label: "Next Priority Application September 28th"
