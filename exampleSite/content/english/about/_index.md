@@ -2,7 +2,7 @@
 title: "Viceroy Decree Virtual Institute"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/newdecreeeneusm.png"
+image: "/images/newdecreeneusm.png"
 draft: false
 ---
 
