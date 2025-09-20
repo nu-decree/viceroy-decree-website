@@ -10,6 +10,11 @@ Are you ready to embark on an exhilarating journey into the world of cybersecuri
 
 ![](/images/CasualCTF24.png)
 
+<p align="center">
+  <img src="/images/CasualCTF24.png?raw=true"/>
+</p>
+
+
 ## Save the Date --> Thursday Nov. 14th
 The Casual CTF  will take place at **WVH 366 this coming Thursday Nov. 14th from 6 to 8 pm**. 
 
