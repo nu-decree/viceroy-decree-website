@@ -8,10 +8,11 @@ draft: false
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
-<p align="center">
-  <img src="/images/CasualCTF24.png"/>
-</p>
+#<p align="center">
+#  <img src="/images/CasualCTF24.png"/>
+#</p>
 
+{{< image src="images/CasualCTF24.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 ## Save the Date --> Thursday Nov. 14th
 The Casual CTF  will take place at **WVH 366 this coming Thursday Nov. 14th from 6 to 8 pm**. 
