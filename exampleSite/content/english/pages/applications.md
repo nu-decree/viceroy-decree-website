@@ -12,7 +12,7 @@ The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Emplo
   <img src="/images/howtocomplete.png?raw=true"/>
 </p>
 
-![img](/images/howtocomplete.png#center)
+
 
 Scholars participating in the Virtual Institute program can obtain two VICEROY Scholars Designations: VICEROY Scholars or VICEROY Scholars with Honors, based on their completion of program requirements. To be recognized as a VICEROY Scholar, students must meet the following requirements:   
 1.	Maintain eligibility for Security Clearance   
