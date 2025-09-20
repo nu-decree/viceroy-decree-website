@@ -8,8 +8,6 @@ draft: false
 
 Are you ready to embark on an exhilarating journey into the world of cybersecurity and problem-solving? Look no further! We're thrilled to announce the launch of our **Casual CTF Advneture**.
 
-![](/images/CasualCTF24.png)
-
 <p align="center">
   <img src="/images/CasualCTF24.png?raw=true"/>
 </p>
