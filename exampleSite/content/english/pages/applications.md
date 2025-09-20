@@ -9,7 +9,7 @@ draft: false
 The Virtual Institutes for Cyber and Electromagnetic Spectrum Research and Employ (VICEROY) DoD Electromagnetic and Cyber Research and Experiential Education Virtual Institute (DECREE) is a consortium of three universities created in close collaboration with the Department of Defense (DoD) and Defense Information Base partners to address recruitment and training challenges faced in DoD-related cyber and Electromagnetic Spectrum (EMS) fields. The goal of the program is to grow the availability of well-qualified and trained students with knowledge, skills, and abilities required to lead DoD-related cyber and EMS operations. 
 
 <p align="center">
-  <img src="images/howtocomplete.png"/>
+  <img src="howtocomplete.png"/>
 </p>
 
 
