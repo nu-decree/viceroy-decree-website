@@ -38,6 +38,7 @@ Students who meet all VICEROY Scholars requirements will receive a completion st
  #### VICEROY Application Form [here](https://app.smartsheet.com/b/form/71b96b31ec674310a3e304a9340e7bfa).
 
 ### Scholar Resources
++ [VICEROY Scholar Application Ad](/images/VICEROYAd.pdf)
 + [Scholar Handbook](https://www.viceroyscholars.org/wp-content/uploads/2025/08/VICEROY-Scholar-Handbook-V1-Updated-2025-August-14-Version.pdf)
 + [Referencing VICEROY on Your Resume and Cover Letter](https://www.viceroyscholars.org/referencing-viceroy-on-your-resume-and-cover-letter/)
 + [Writing a Federal Resume](https://www.viceroyscholars.org/writing-a-federal-resume/)
