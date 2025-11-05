@@ -2,7 +2,7 @@
 title: "D3CR33 Casual CTF Adventure !"
 meta_title: "DECREE Casual CTF"
 description: "this is meta description"
-image: "/images/casualCTF.jpg"
+image: "/images/newdecreeneusm.png"
 draft: false
 ---
 
