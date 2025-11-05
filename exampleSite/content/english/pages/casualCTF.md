@@ -22,16 +22,14 @@ Each team competes in **one 3-hour time window**, which preference is selected d
 - **Thursday, November 21st** — 3 PM – 6 PM  or  7 PM – 10 PM  
 - **Friday, November 22nd** — 9 AM – 12 PM  
 
-Limited slots are available for each window.  
-**Priority will be given to complete 4-member teams.**
+  Limited slots are available for each window. **Priority will be given to complete 4-member teams.**
 ### Register for the competition by November 14th
+  Although registration is completed **individually**, every participant must:
+  - Enter the **exact same Team Name** as their teammates.  
+  - Confirm that the team has **exactly 4 members** before submitting.  
+      - Teams with fewer than 4 members will **not be eligible** to participate.
 
-Although registration is completed **individually**, every participant must:
-- Enter the **exact same Team Name** as their teammates.  
-- Confirm that the team has **exactly 4 members** before submitting.  
-Teams with fewer than 4 members will **not be eligible** to participate.
-
-[**Register**](https://forms.gle/dY5HzPgAMesRA7eBA)
+    ## [**Register HERE**](https://forms.gle/dY5HzPgAMesRA7eBA)
 
 ### What to Expect
 - **Beginner-Friendly Challenges:** Suitable for all skill levels — no prior CTF experience required.  
