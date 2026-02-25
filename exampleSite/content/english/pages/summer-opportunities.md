@@ -10,7 +10,7 @@ draft: false
 Welcome to the DECREE VI Scholars Summer Program! This program is designed to enhance your skills and knowledge in cybersecurity, offering a variety of engaging educational activities and opportunities for professional development. The activities that are part of the summer program are detailed below:
 
 {{< notice "info" >}}
-All activities need to start by June 2025 and completed by September 2025.
+All activities need to start by June 2026 and completed by September 2026.
 {{< /notice >}}
 
 
