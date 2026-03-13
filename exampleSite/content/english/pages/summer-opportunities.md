@@ -37,30 +37,8 @@ Enhance your credentials by preparing and taking a Department of Defense-approve
 
 ---
 
-### Complete Cybersecurity Hands-on Batches with PentesterLab
-Advance your cybersecurity skills by completing the following badge courses on PentesterLab over the summer:
-- [Blue Badge](https://pentesterlab.com/badges/bluebadge): Start here if you’re new to cybersecurity and learn the basics.
-- [Green Badge](https://pentesterlab.com/badges/greenbadge): Dive into specific techniques for exploiting serialized data.
-- [Orange Badge](https://pentesterlab.com/badges/orangebadge): Further your understanding of security with more complex challenges.
-
-  Different badges can be completed based on scholars background.
----
-
-
-### Engage in Industry and Research
-- Attend Local Cybersecurity Professional Conferences: Network with professionals or rechearchers and learn from experts at events realted to the VICEROY areas. There is a limited funding for these conferences determine by each University.
----
-
 ### Biweekly Reflections
 If you are joining any of these summer oportunities, you are required to submit a biweekly Linkedin post in our [LinkedIn group](https://www.linkedin.com/groups/14431610) reflecting on their summer activities.
 
-If you are interested, please contact us at [viceroydecree-admin@khoury.northeastern.edu](mailto:viceroydecree-admin@khoury.northeastern.edu), and provide:    
-  > ** PentesterLab Plan**
-  > 1. **Goal & Deadline**  
-  >   Provide the specific certification exam or PentesterLab track you will complete and state your target completion date.
-  > 2. **Weekly Schedule**  
-  >   Outline the number of study hours you will commit each week and list the topics, labs, or modules you will cover.
-  > 3. **Milestones & Evidence (LinkedIn Updates)**  
-  >   Identify at least three checkpoints, describe the evidence you will submit for each, and commit to posting a brief progress update with supporting proof in the program’s [LinkedIn group](https://www.linkedin.com/groups/14431610)
 
 ---
