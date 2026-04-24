@@ -6,7 +6,8 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-**VICEROY 2027 Summer program**
+**Mission-Focused Internships & Experiential Learning Opportunities**
+[VICEROY SCHOLARS](https://www.viceroyscholars.org/apply/)
 <!--
 Here is the 2024 Application for interns for our VICEROY 2024 Summer program. This is for returning interns from 2024 as well as any new interns who wish to be considered for a summer internship.
 
