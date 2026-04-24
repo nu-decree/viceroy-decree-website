@@ -18,7 +18,7 @@ All activities need to start by June 2026 and completed by September 2026.
 Enhance your credentials by preparing and taking a Department of Defense-approved cybersecurity certification exams:
 - Security + (SY0-701): Build foundational security skills and knowledge.
 - PenTest + (PT0-002): Focus on penetration testing and offensive security measures.
-- SecAI + (CY0-001):  It validates practical skills for securing AI systems.
+<!--- SecAI + (CY0-001):  It validates practical skills for securing AI systems. -->
 
 #### Please follow the following process to obtain your Comptia exam voucher
   
