@@ -1,17 +1,17 @@
 ---
-title: "VICEROY DECREE Fall 2025 NCL Team Captains"
-meta_title: "Become a DECREE Team Captain for Fall 2025 NCL"
-description: "Lead a student team in the Fall 2025 National Cyber League and gain real-world cybersecurity leadership experience."
+title: "VICEROY DECREE Fall 2026 NCL Team Captains"
+meta_title: "Become a DECREE Team Captain for Fall 2026 NCL"
+description: "Lead a student team in the Fall 2026 National Cyber League and gain real-world cybersecurity leadership experience."
 image: "/images/avatar.png"
 draft: false
 ---
 
-## Become a VICEROY DECREE Team Captain for Fall 2025 NCL
+## Become a VICEROY DECREE Team Captain for Fall 2026 NCL
 
-We’re recruiting a small number of **Team Captains** to represent the [DECREE VI Scholars Program](https://viceroydecree.org) in the **Fall 2025 National Cyber League (NCL)** — one of the most respected collegiate cybersecurity competitions in the U.S.
+We’re recruiting a small number of **Team Captains** to represent the [DECREE VI Scholars Program](https://viceroydecree.org) in the **Fall 2026 National Cyber League (NCL)** — one of the most respected collegiate cybersecurity competitions in the U.S.
 
 {{< notice "info" >}}
-Apply by **August 16, 2025**. Captains must be available for both official NCL weekends: **Oct 24–26** and **Nov 7–9**.
+Apply by **August 16, 2026**. Captains must be available for both official NCL weekends: **Oct 24–26** and **Nov 7–9**.
 {{< /notice >}}
 
 If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), [PentesterLab](https://pentesterlab.com/), or participated in a previous NCL season — or even if you’re just motivated to lead and improve your hands-on skills — **we encourage you to apply**.
@@ -28,8 +28,8 @@ If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https:
 - Organize **weekly practice sessions** using the **NCL Gym**
 - Motivate and coordinate your team through the season
 
-### 🗓️ NCL Fall 2025 Schedule
-
+### 🗓️ NCL Fall 2026 Schedule
+<!--
 | Activity               | Dates                      | Time Commitment           |
 |------------------------|----------------------------|---------------------------|
 | NCL Registration       | Aug 18 – Oct 10            | Individual registration   |
@@ -37,7 +37,7 @@ If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https:
 | Practice Game          | Oct 13 – 19                | Warm-up week              |
 | Individual Game        | Oct 24 – 26 (Fri–Sun)      | 4–8 hours (solo)          |
 | Team Game              | Nov 7 – 9 (Fri–Sun)        | 4–8 hours (team-based)    |
-
+-->
 > **Total time commitment:** ~20–30 hours across the semester (~2 hours/week)
 
 ### ✅ Selection Criteria
