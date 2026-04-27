@@ -6,7 +6,7 @@ banner:
   image: "/images/newdecreeneusm.png"
   button:
     enable: true
-    label: "Next Priority Application February 28th"
+    label: "Next Priority Application September 28th"
     link: "https://viceroydecree.org/applications"
 
 # Features
@@ -19,7 +19,7 @@ features:
       enable: true
       label: "View Details"
       link: "/nclcaptains"
-
+    
   - title: "Course Curricula"
     image: "/images/service-1.png"
     content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
