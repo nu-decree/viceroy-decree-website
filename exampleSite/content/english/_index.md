@@ -19,7 +19,7 @@ features:
       enable: true
       label: "View Details"
       link: "/nclcaptains"
- <!--
+
   - title: "Course Curricula"
     image: "/images/service-1.png"
     content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
@@ -34,7 +34,7 @@ features:
       enable: false
       label: "Get Started Now"
       link: "#"
--->
+
   - title: "Discover the Key Features Of The Program"
     image: "/images/service-2.png"
     content: " The goal of the program is to grow the availability of well-qualified and trained students with essential knowledge, skills, and abilities required to plan, synchronize, and lead DoD-related cyber and EMS operations. Some of the key features are:"
