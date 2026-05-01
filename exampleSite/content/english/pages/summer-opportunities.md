@@ -37,6 +37,36 @@ Enhance your credentials by preparing and taking a Department of Defense-approve
 
 ---
 
+### Attend Local Cybersecurity Conferences
+
+Scholars may attend local cybersecurity conferences as part of their summer professional development. This is an opportunity to engage with the cybersecurity community, learn about current trends, and expand professional networks.
+
+{{< notice "info" >}}
+We can support up to $300 per scholar in ONE conference registration fees. Travel, lodging, and other expenses are not covered.
+{{< /notice >}}
+
+#### Process to request support
+
+**1. Identify a conference**  
+- Select a relevant local cybersecurity conference taking place between June and September (before the regular classes are resume).  
+- Ensure the event does not require travel or overnight stay.
+
+**2. Submit a request for approval**  
+- Provide the conference name, date, location, and registration cost.  
+- Include a short justification (2–3 sentences) explaining how the event supports your professional development.
+
+**3. Confirmation and registration**  
+- Wait for approval before registering.  
+- After approval, complete your registration and keep proof of payment.
+
+**4. Submit proof and reflection**  
+- Upload proof of registration/payment as requested.  
+- Share your experience through your biweekly LinkedIn reflection, highlighting key takeaways and insights.
+
+---
+
+---
+
 ### Biweekly Reflections
 If you are joining any of these summer oportunities, you are required to submit a biweekly Linkedin post in our [LinkedIn group](https://www.linkedin.com/groups/14431610) reflecting on their summer activities.
 
