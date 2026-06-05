@@ -6,7 +6,7 @@ image: "/images/avatar.png"
 draft: false
 ---
 VICEROY DECREE scholars can take courses from a shared virtual institute curriculum. These courses follow a virtual online instructional method for Visiting VI students. Each scholar needs to complete 8–10 credits from this multi-institution curriculum (course credits vary from 3 to 4 credit hours).
-{{< image src="images/viceroy-decree-course-path.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title" webp="false" >}}
+
 Depending on scholars' background they can select courses that complement their skills and knowledge based on breadth or depth.
 - Courses that complement the student's existing background and skills
 - Courses that amplify and extend the student's existing background and skills
