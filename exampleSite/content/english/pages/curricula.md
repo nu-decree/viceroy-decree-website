@@ -22,57 +22,57 @@ Course curricula is divided into the following areas:
 
 All VI courses are mapped to the **[DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/)**, defined in **DoDD 8140.01** and operationalized through **[DoDM 8140.03](https://www.dodemergingtech.com/dod-programs/dod-8140/)**. The DCWF builds on the **[NICE Workforce Framework for Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)** and organizes the cyber workforce into **seven workforce elements** and **74 work roles**, each with a unique three-digit DCWF code.
 
-Each course table below lists the DCWF **work roles** the course supports, the **DCWF code**, and the **workforce element**. The full definition of every work role, plus its associated tasks and knowledge, skills, and abilities (KSATs), is in the **[DCWF Work Role Reference](#dcwf-work-role-reference)** table further down, where each role links to its official work role page on the **[DoD DCWF work role catalog](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/)**.
+Each course table below lists the DCWF **work roles** the course supports, the **DCWF code**, and the **workforce element**. The full definition of every work role, plus its associated tasks and knowledge, skills, and abilities (KSATs), is in the **[DCWF Work Role Reference](#dcwf-work-role-reference)** table further down, where each role links to a public detail page. For the framework as a whole, see the readable **[DCWF Overview Factsheet (PDF)](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf)**.
 
 **DCWF Workforce Elements covered across the VI curriculum:**
 
 | Workforce Element | Description | Reference |
 | ----------------- | ----------- | :-------: |
-| IT (Cyberspace) | Design, build, configure, operate, and maintain IT, networks, and capabilities, including information resource and data management. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| Cybersecurity | Secure, defend, and preserve data, networks, and systems by ensuring appropriate security controls and taking internal defense actions. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| Software Engineering | Develop, design, test, and sustain secure software and systems across the full software lifecycle. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| Cyberspace Effects | Plan, support, and execute cyberspace capabilities to externally defend or project force in or through cyberspace. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| Intelligence (Cyberspace) | Collect, process, analyze, and disseminate intelligence on foreign actors' cyberspace programs, capabilities, and activities. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| AI / Data | Manage, engineer, analyze, and govern data and artificial intelligence / machine learning systems and capabilities. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
-| Cyberspace Enablers (Support) | Support and facilitate the cyber workforce through acquisition, legal / law enforcement, training, and leadership functions. | [DCWF](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/) |
+| IT (Cyberspace) | Design, build, configure, operate, and maintain IT, networks, and capabilities, including information resource and data management. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| Cybersecurity | Secure, defend, and preserve data, networks, and systems by ensuring appropriate security controls and taking internal defense actions. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| Software Engineering | Develop, design, test, and sustain secure software and systems across the full software lifecycle. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| Cyberspace Effects | Plan, support, and execute cyberspace capabilities to externally defend or project force in or through cyberspace. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| Intelligence (Cyberspace) | Collect, process, analyze, and disseminate intelligence on foreign actors' cyberspace programs, capabilities, and activities. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| AI / Data | Manage, engineer, analyze, and govern data and artificial intelligence / machine learning systems and capabilities. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
+| Cyberspace Enablers (Support) | Support and facilitate the cyber workforce through acquisition, legal / law enforcement, training, and leadership functions. | [DCWF](https://dl.dod.cyber.mil/wp-content/uploads/dcwf/pdf/unclass-dcwf_factsheet.pdf) |
 
 ---
 ## DCWF Work Role Reference
 
-Every DCWF work role used in the course tables below, with its code, workforce element, and definition. Each work role name links to its official DCWF work role page, where the full task and KSAT list can be consulted.
+Every DCWF work role used in the course tables below, with its code, workforce element, and definition. Each work role name links to a clean public detail page: the SANS job-role page for that DCWF code (role summary plus aligned training). The intelligence, effects, and data roles that SANS does not publish link instead to the official DoD DCWF work role catalog. For the complete DCWF catalog (all seven workforce elements and 74 work roles), see the companion [DCWF Work Role Reference](/dcwf-work-role-reference/).
 
 | Code | Work Role | Workforce Element | What the role does |
 | :--: | --------- | ----------------- | ------------------ |
 | 131 | [Target Developer](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-effects/target-developer/) | Cyberspace Effects | Performs target system analysis and builds and maintains electronic target folders, coordinating with intelligence organizations and partner activities. |
 | 132 | [Target Network Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-effects/target-network-analyst/) | Cyberspace Effects | Conducts advanced analysis of collection and open-source data to ensure target continuity, profile targets and their activities, and develop techniques to gain more target information. |
 | 151 | [Multi-Disciplined Language Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-intelligence/multi-disciplined-language-analyst/) | Intelligence (Cyberspace) | Applies language and culture expertise with target/threat and technical knowledge to process, analyze, and disseminate intelligence derived from language, voice, and/or graphic material. |
-| 211 | [Forensics Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-enablers-support/forensics-analyst/) | Cyberspace Enablers (Support) | Conducts deep-dive investigations of computer-based crimes, establishing documentary or physical evidence including digital media and logs associated with cyber intrusion incidents. |
-| 212 | [Cyber Defense Forensics Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/cyber-defense-forensics-analyst/) | Cybersecurity | Analyzes digital evidence and investigates computer security incidents to derive useful information in support of system and network vulnerability mitigation. |
-| 421 | [Database Administrator](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/database-administrator/) | IT (Cyberspace) | Administers databases and data management systems that allow for the storage, query, and use of data. |
+| 211 | [Forensics Analyst](https://www.sans.org/job-roles/forensics-analyst-dcwf-211) | Cyberspace Enablers (Support) | Conducts deep-dive investigations of computer-based crimes, establishing documentary or physical evidence including digital media and logs associated with cyber intrusion incidents. |
+| 212 | [Cyber Defense Forensics Analyst](https://www.sans.org/job-roles/cyber-defense-forensics-analyst-dcwf-212) | Cybersecurity | Analyzes digital evidence and investigates computer security incidents to derive useful information in support of system and network vulnerability mitigation. |
+| 421 | [Database Administrator](https://www.sans.org/job-roles/database-administrator-dcwf-421) | IT (Cyberspace) | Administers databases and data management systems that allow for the storage, query, and use of data. |
 | 422 | [Data Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/ai-data/data-analyst/) | AI / Data | Analyzes and interprets data from multiple disparate sources and builds visualizations and dashboards to report insights. |
-| 441 | [Network Operations Specialist](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/network-operations-specialist/) | IT (Cyberspace) | Plans, implements, and operates network services and systems, including hardware and virtual environments. |
-| 451 | [System Administrator](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/system-administrator/) | IT (Cyberspace) | Installs, configures, troubleshoots, and maintains hardware and software, and administers system accounts. |
-| 461 | [Systems Security Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/software-engineering/systems-security-analyst/) | Software Engineering | Responsible for the analysis and development of the integration, testing, operations, and maintenance of systems security. |
-| 511 | [Cyber Defense Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/cyber-defense-analyst/) | Cybersecurity | Uses data collected from a variety of cyber defense tools to analyze events that occur within their environments in order to mitigate threats. |
-| 521 | [Cyber Defense Infrastructure Support Specialist](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/cyber-defense-infrastructure-support-specialist/) | Cybersecurity | Tests, implements, deploys, maintains, and administers the infrastructure hardware and software for cyber defense. |
-| 531 | [Cyber Defense Incident Responder](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/cyber-defense-incident-responder/) | Cybersecurity | Investigates, analyzes, and responds to cyber incidents within the network environment or enclave. |
-| 541 | [Vulnerability Assessment Analyst](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/vulnerability-assessment-analyst/) | Cybersecurity | Performs assessments of systems and networks, identifies where they deviate from acceptable configurations or policy, and measures the effectiveness of defense-in-depth against known vulnerabilities. |
-| 611 | [Authorizing Official / Designating Representative](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/authorizing-official-designating-representative/) | Cybersecurity | Senior official with the authority to formally assume responsibility for operating an information system at an acceptable level of risk. |
-| 612 | [Security Control Assessor](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/security-control-assessor/) | Cybersecurity | Conducts independent comprehensive assessments of the management, operational, and technical security controls of an IT system to determine their overall effectiveness. |
-| 621 | [Software Developer](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/software-engineering/software-developer/) | Software Engineering | Develops, creates, maintains, and codes new (or modifies existing) computer applications, software, or specialized utility programs. |
-| 622 | [Secure Software Assessor](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/secure-software-assessor/) | Cybersecurity | Analyzes the security of new or existing computer applications, software, or specialized utility programs and provides actionable results. |
-| 631 | [Information Systems Security Developer](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/information-systems-security-developer/) | Cybersecurity | Designs, develops, tests, and evaluates information system security throughout the systems development lifecycle. |
-| 632 | [Systems Developer](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/systems-developer/) | IT (Cyberspace) | Designs, develops, tests, and evaluates information systems throughout the systems development lifecycle. |
-| 641 | [Systems Requirements Planner](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/systems-requirements-planner/) | IT (Cyberspace) | Consults with customers to evaluate functional requirements and translate them into technical solutions. |
-| 651 | [Enterprise Architect](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/enterprise-architect/) | IT (Cyberspace) | Develops and maintains business, systems, and information processes, and the IT rules and requirements describing baseline and target architectures. |
-| 652 | [Security Architect](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/security-architect/) | Cybersecurity | Designs enterprise and systems security throughout the development lifecycle, translating technology and environmental conditions into security designs and processes. |
-| 661 | [Research & Development Specialist](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/research-and-development-specialist/) | IT (Cyberspace) | Conducts software and systems engineering and research to develop new capabilities with cybersecurity fully integrated, and evaluates potential vulnerabilities. |
-| 671 | [System Testing and Evaluation Specialist](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyber-it/system-testing-and-evaluation-specialist/) | IT (Cyberspace) | Plans, prepares, and executes tests of systems to evaluate results against specifications and requirements, and analyzes and reports test results. |
-| 722 | [Information Systems Security Manager](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cybersecurity/information-systems-security-manager/) | Cybersecurity | Responsible for the cybersecurity of a program, organization, system, or enclave. |
+| 441 | [Network Operations Specialist](https://www.sans.org/job-roles/network-operations-specialist-dcwf-441) | IT (Cyberspace) | Plans, implements, and operates network services and systems, including hardware and virtual environments. |
+| 451 | [System Administrator](https://www.sans.org/job-roles/system-administrator-dcwf-451) | IT (Cyberspace) | Installs, configures, troubleshoots, and maintains hardware and software, and administers system accounts. |
+| 461 | [Systems Security Analyst](https://www.sans.org/job-roles/systems-security-analyst-dcwf-461) | Software Engineering | Responsible for the analysis and development of the integration, testing, operations, and maintenance of systems security. |
+| 511 | [Cyber Defense Analyst](https://www.sans.org/job-roles/cyber-defense-analyst-dcwf-511) | Cybersecurity | Uses data collected from a variety of cyber defense tools to analyze events that occur within their environments in order to mitigate threats. |
+| 521 | [Cyber Defense Infrastructure Support Specialist](https://www.sans.org/job-roles/cyber-defense-infrastructure-support-specialist-dcwf-521) | Cybersecurity | Tests, implements, deploys, maintains, and administers the infrastructure hardware and software for cyber defense. |
+| 531 | [Cyber Defense Incident Responder](https://www.sans.org/job-roles/cyber-defense-incident-responder-dcwf-531) | Cybersecurity | Investigates, analyzes, and responds to cyber incidents within the network environment or enclave. |
+| 541 | [Vulnerability Assessment Analyst](https://www.sans.org/job-roles/vulnerability-assessment-analyst-dcwf-541) | Cybersecurity | Performs assessments of systems and networks, identifies where they deviate from acceptable configurations or policy, and measures the effectiveness of defense-in-depth against known vulnerabilities. |
+| 611 | [Authorizing Official / Designating Representative](https://www.sans.org/job-roles/authorizing-officialdesignated-representative-dcwf-611) | Cybersecurity | Senior official with the authority to formally assume responsibility for operating an information system at an acceptable level of risk. |
+| 612 | [Security Control Assessor](https://www.sans.org/job-roles/security-control-assessor-dcwf-612) | Cybersecurity | Conducts independent comprehensive assessments of the management, operational, and technical security controls of an IT system to determine their overall effectiveness. |
+| 621 | [Software Developer](https://www.sans.org/job-roles/software-developer-dcwf-621) | Software Engineering | Develops, creates, maintains, and codes new (or modifies existing) computer applications, software, or specialized utility programs. |
+| 622 | [Secure Software Assessor](https://www.sans.org/job-roles/secure-software-assessor-dcwf-622) | Cybersecurity | Analyzes the security of new or existing computer applications, software, or specialized utility programs and provides actionable results. |
+| 631 | [Information Systems Security Developer](https://www.sans.org/job-roles/information-systems-security-developer-dcwf-631) | Cybersecurity | Designs, develops, tests, and evaluates information system security throughout the systems development lifecycle. |
+| 632 | [Systems Developer](https://www.sans.org/job-roles/systems-developer-dcwf-632) | IT (Cyberspace) | Designs, develops, tests, and evaluates information systems throughout the systems development lifecycle. |
+| 641 | [Systems Requirements Planner](https://www.sans.org/job-roles/systems-requirements-planner-dcwf-641) | IT (Cyberspace) | Consults with customers to evaluate functional requirements and translate them into technical solutions. |
+| 651 | [Enterprise Architect](https://www.sans.org/job-roles/enterprise-architect-dcwf-651) | IT (Cyberspace) | Develops and maintains business, systems, and information processes, and the IT rules and requirements describing baseline and target architectures. |
+| 652 | [Security Architect](https://www.sans.org/job-roles/security-architect-dcwf-652) | Cybersecurity | Designs enterprise and systems security throughout the development lifecycle, translating technology and environmental conditions into security designs and processes. |
+| 661 | [Research & Development Specialist](https://www.sans.org/job-roles/research-development-specialist-dcwf-661) | IT (Cyberspace) | Conducts software and systems engineering and research to develop new capabilities with cybersecurity fully integrated, and evaluates potential vulnerabilities. |
+| 671 | [System Testing and Evaluation Specialist](https://www.sans.org/job-roles/system-testing-and-evaluation-specialist-dcwf-671) | IT (Cyberspace) | Plans, prepares, and executes tests of systems to evaluate results against specifications and requirements, and analyzes and reports test results. |
+| 722 | [Information Systems Security Manager](https://www.sans.org/job-roles/information-systems-security-manager-dcwf-722) | Cybersecurity | Responsible for the cybersecurity of a program, organization, system, or enclave. |
 | 801 | [Program Manager](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-enablers-support/program-manager/) | Cyberspace Enablers (Support) | Leads, coordinates, and is accountable for the overall success of a program, ensuring alignment with agency priorities. |
-| 802 | [IT Project Manager](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-enablers-support/it-project-manager/) | Cyberspace Enablers (Support) | Directly manages information technology projects to provide a unique service or product. |
-| 803 | [Product Support Manager](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-enablers-support/product-support-manager/) | Cyberspace Enablers (Support) | Manages the package of support functions required to field and maintain the readiness and operational capability of systems and components. |
-| 901 | [Executive Cyber Leader](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/cyberspace-enablers-support/executive-cyber-leader/) | Cyberspace Enablers (Support) | Executes decision-making authorities and establishes vision and direction for an organization's cyber and cyber-related policies, resources, and operations. |
+| 802 | [IT Project Manager](https://www.sans.org/job-roles/it-project-manager-dcwf-802) | Cyberspace Enablers (Support) | Directly manages information technology projects to provide a unique service or product. |
+| 803 | [Product Support Manager](https://www.sans.org/job-roles/product-support-manager-dcwf-803) | Cyberspace Enablers (Support) | Manages the package of support functions required to field and maintain the readiness and operational capability of systems and components. |
+| 901 | [Executive Cyber Leader](https://www.sans.org/job-roles/executive-cyber-leader-dcwf-901) | Cyberspace Enablers (Support) | Executes decision-making authorities and establishes vision and direction for an organization's cyber and cyber-related policies, resources, and operations. |
 
 ---
 ## Registration Deadlines
@@ -95,21 +95,20 @@ Every DCWF work role used in the course tables below, with its code, workforce e
 ---
 ## Course Catalog
 
-|  | Northern Arizona University | Northeastern University | University of South Carolina | University of Houston |
-| ------------- | :-----------: | :----: | :--: | --: |
-| **EMS** | PHY 332 Electricity and Magnetism II | | | ECE 3317 Applied Electromagnetic Waves |
-| | | | | ECE 3318 Applied Electricity and Magnetism |
-| **Cyber** | CYB 310 Malware Analysis | | ITEC 445 Advanced Networking | ECE 5397 Introduction to Cybersecurity |
-| | CYB 410 Secure Software | | ITEC 493: IT Security for Managers | |
-| | CYB 126/136 Secure Design I/II | | ITEC 293: Cybersecurity Operations | |
-| | | | ITEC 245: Introduction to Networking | |
-| **Crypto** | INF 638 Cryptography and PKI | | | |
-| | CYB 402 Applied Cryptography | | | |
-| **Data Science** | | DS 3000 Foundations of Data Science | | |
-| | | DS 3500 Advanced Programming with Data | | |
-| **Strategic Language** | | CHNS 1101/1102 Elementary Chinese | RUSS 121/122 Elementary Russian | |
-| **Research** | CS 485 Undergraduate Research | CY 2991 Research in Cybersecurity | ITEC 564 Capstone Project | |
-| | CYB 499 Current Developments | CY 4930 Cybersecurity Capstone | | |
+|  | Northern Arizona University | Northeastern University | University of South Carolina |
+| ------------- | :-----------: | :----: | :--: |
+| **EMS** | PHY 332 Electricity and Magnetism II | | |
+| **Cyber** | CYB 310 Malware Analysis | | ITEC 445 Advanced Networking |
+| | CYB 410 Secure Software | | ITEC 493: IT Security for Managers |
+| | CYB 126/136 Secure Design I/II | | ITEC 293: Cybersecurity Operations |
+| | | | ITEC 245: Introduction to Networking |
+| **Crypto** | INF 638 Cryptography and PKI | | |
+| | CYB 402 Applied Cryptography | | |
+| **Data Science** | | DS 3000 Foundations of Data Science | |
+| | | DS 3500 Advanced Programming with Data | |
+| **Strategic Language** | | CHNS 1101/1102 Elementary Chinese | RUSS 121/122 Elementary Russian |
+| **Research** | CS 485 Undergraduate Research | CY 2991 Research in Cybersecurity | ITEC 564 Capstone Project |
+| | CYB 499 Current Developments | CY 4930 Cybersecurity Capstone | |
 ---
 ## Northeastern University
 **CY 2991. Research in Cybersecurity (4 credits)**
@@ -308,33 +307,6 @@ Description: Examines recent trends and investigations in a selected area.
 | Cyber Defense Analyst | 511 | Cybersecurity |
 
 ---
-## University of Houston
-**ECE 3317 — Applied Electromagnetic Waves (3 credits)**
-*Offered in the Fall*
-Description: Maxwell's equations in time and frequency domains, Poynting's theorem, plane wave propagation, reflection and transmission in lossless and lossy media, transmission lines, waveguides, and antennas.
-Prerequisites: PHYS 2126 and PHYS 2326
-Syllabus can be found [here](/files/UHECE3317.pdf).
----
-**ECE 3318 — Applied Electricity and Magnetism (3 credits)**
-*Offered in the Spring*
-Description: Fundamentals of electricity and magnetism, vector calculus, Maxwell's equations, Kirchhoff's laws, static electric and magnetic fields, resistance, capacitance, inductance, magnetic circuits, and transformers.
-Prerequisites: ENGI 1100, ENGI 1331, MATH 2415, MATH 3321, PHYS 2326, PHYS 2126.
----
-**ECE 5397 — Introduction to Cybersecurity (3 credits)**
-*Offered in the Spring*
-Description: Basic security concepts. Cryptography basics. Computer security and network security. Security analysis.
-Prerequisites: ECE 1331, ENGI 1100, & MATH 2415.
-Syllabus can be found [here](/files/UHECE5397.pdf).
-**DCWF Alignment — [DoDM 8140.03](https://www.dodemergingtech.com/dod-programs/dod-8140/)**
-
-| Work Role | DCWF Code | Workforce Element |
-| --------- | :-------: | ----------------- |
-| Cyber Defense Analyst | 511 | Cybersecurity |
-| Systems Security Analyst | 461 | Software Engineering |
-| Security Control Assessor | 612 | Cybersecurity |
-| Vulnerability Assessment Analyst | 541 | Cybersecurity |
-
----
 ## University of South Carolina
 **RUSS 121: Introductory Russian (4 credits)**
 *Offered Fall 2022*
@@ -431,5 +403,4 @@ Syllabus can be found [here](/files/USCITEC445.pdf).
 | Forensics Analyst | 211 | Cyberspace Enablers (Support) |
 
 ---
-*This curriculum page is maintained by the VICEROY DECREE Virtual Institute. DCWF work role mappings follow the [DoD Cyber Workforce Framework](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) (DoDD 8140.01), operationalized through [DoDM 8140.03](https://www.dodemergingtech.com/dod-programs/dod-8140/), which builds on the [NICE Workforce Framework for Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center). Work role definitions, codes, and workforce elements are sourced from the [official DCWF work role catalog](https://www.dodemergingtech.com/dod-programs/dod-cyber-workforce-framework-dcwf/dcwf-workforce-elements/). Mappings are reviewed annually and updated in response to NCAE-C designation changes and DCWF framework revisions.*
-*Last updated: June 2026*
+
