@@ -10,15 +10,15 @@ draft: false
 ### The competition is fully online, allowing your team to participate from any location of your choice.
 
 
-## Save the Date --> Nov. 20th, 21st and 22nd 
+## Save the Date --> Nov. 18th, 19ht and 20th 
 The **Casual CTF** is a beginner-friendly, online cybersecurity competition where teams of **four students** will collaborate to solve a variety of Capture the Flag challenges.  
 Each team competes in **one 3-hour time window**, which preference is selected during registration (limited slots per time window).
 
 ### 🗓️ Save the Date
 **Competition Dates:**  
-- **Wednesday, November 20th** — 3 PM – 6 PM  or  7 PM – 10 PM  
-- **Thursday, November 21st** — 3 PM – 6 PM  or  7 PM – 10 PM  
-- **Friday, November 22nd** — 9 AM – 12 PM  
+- **Wednesday, November 18th** — 3 PM – 6 PM  or  7 PM – 10 PM  
+- **Thursday, November 19th** — 3 PM – 6 PM  or  7 PM – 10 PM  
+- **Friday, November 20th** — 9 AM – 12 PM  
 
   Limited slots are available for each window. **Priority will be given to complete 4-member teams.**
 ### Register for the competition by November 14th
@@ -38,7 +38,7 @@ Each team competes in **one 3-hour time window**, which preference is selected d
 - **Use Your Laptop:** All challenges are online, and you may use your preferred tools. 
 
     ### [**Register HERE**](https://forms.gle/dY5HzPgAMesRA7eBA)
-Get ready to test your skills, learn something new, and have fun with your team at **Casual CTF 2025**!
+Get ready to test your skills, learn something new, and have fun with your team at **Casual CTF 2026**!
 
 
 
