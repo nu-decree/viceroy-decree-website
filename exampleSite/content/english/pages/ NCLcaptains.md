@@ -11,7 +11,7 @@ draft: false
 We’re recruiting a small number of **Team Captains** to represent the [DECREE VI Scholars Program](https://viceroydecree.org) in the **Fall 2026 National Cyber League (NCL)** — one of the most respected collegiate cybersecurity competitions in the U.S.
 
 {{< notice "info" >}}
-Apply by **August 16, 2026**. Captains must be available for both official NCL weekends: **Oct 23–25** and **Nov 6–8**.
+Apply by **September 9th, 2026**. Captains must be available for both official NCL weekends: **Oct 23–25** and **Nov 6–8**.
 {{< /notice >}}
 
 If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), [PentesterLab](https://pentesterlab.com/), or participated in a previous NCL season — or even if you’re just motivated to lead and improve your hands-on skills — **we encourage you to apply**.
@@ -32,7 +32,7 @@ If you’ve done [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https:
 
 | Activity               | Dates                      | Time Commitment           |
 |------------------------|----------------------------|---------------------------|
-| NCL Registration       | Aug 17 – Oct 10            | Individual registration   |
+| NCL Registration       | Aug 17 – Oct 9            | Individual registration   |
 | NCL Gymnasium          | Aug 17 – Dec 11            | ~1 hour/week              |
 | Practice Game          | Oct 12 – 18                | Warm-up week              |
 | Individual Game        | Oct 23 – 25 (Fri–Sun)      | 4–8 hours (solo)          |
@@ -47,9 +47,7 @@ We’re looking for students with:
 - Commitment to teamwork and availability during key dates
 
 ### 📩 How to Apply
-If you’re interested in being a Captain, email us at  
-[viceroydecree@khoury.northeastern.edu](mailto:viceroydecree@khoury.northeastern.edu) with:
-
+To apply, email us at viceroydecree@khoury.northeastern.edu by September 9, 2026, with the subject line “NCL Captain Application” and include: 
 >> **NCL Captain Application**  
 >> 1. **Cybersecurity Experience**  
 >>    Describe any competitions, platforms, or coursework you’ve completed.  
@@ -68,6 +66,6 @@ If you’re interested in being a Captain, email us at
 - [DECREE VI Virtual Institute](https://viceroydecree.org)
 
 {{< notice "note" >}}
-Selected captains will be announced by mid-September 2025.
+Selected captains will be announced by mid-September.
 {{< /notice >}}
 
