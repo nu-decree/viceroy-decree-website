@@ -14,26 +14,11 @@ features:
   - title: "VICEROY DECREE Fall 2026 NCL Team Captain Recruitment"
     image: "/images/ncl-logo.png"
     content: "We’re recruiting student leaders to captain DECREE teams in the Fall 2025 National Cyber League. Gain cybersecurity leadership experience and free access to platforms like Hack The Box or TryHackMe!"
-    date: "Apply by August 16, 2025"
+    date: "Apply by August 16, 2026"
     button:
       enable: true
       label: "View Details"
       link: "/nclcaptains"
-    
-  - title: "Course Curricula"
-    image: "/images/service-1.png"
-    content: "Decree scholars can take courses from a shared virtual institute curriculum, depending on their background to complement their skills and knowledge, across the following academic disciplines:"
-    bulletpoints:
-      - "Cybersecurity"
-      - "Cryptography"
-      - "Data Science"
-      - "Electro-Magnetic Spectrum"
-      - "Research"
-      - "Strategic Foreing Language"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
 
   - title: "Discover the Key Features Of The Program"
     image: "/images/service-2.png"
